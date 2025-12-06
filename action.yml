@@ -3,7 +3,7 @@
 
 ---
 
-name: "Setup HashiCorp Nomad"
+name: "Setup HashiCorp Nomad (nferch)"
 author: "Nathan Ferch"
 description: "A GitHub Action to install a specific version of HashiCorp Nomad and add it to PATH."
 inputs:
